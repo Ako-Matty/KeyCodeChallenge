@@ -1,0 +1,55 @@
+body {
+    background-color: beige;
+
+
+
+}
+
+
+
+
+.TileBar {
+    background-color: rgb(64, 37, 0);
+    height: 104px;
+    padding: 30px;
+    display: flex;
+  
+ 
+}
+
+
+
+#key2 {
+
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+
+
+#heading {
+
+display: flex;
+justify-content: center;
+color: blueviolet;
+
+}
+
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+#information {
+
+display: flex;
+justify-content: center;
+}
